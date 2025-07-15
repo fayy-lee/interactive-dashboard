@@ -1,0 +1,28 @@
+{
+  "app_title": "VegDash",
+  "dashboard_title": "Interactive Dashboard",
+  "footer_rights": "All rights reserved.",
+  "bar_chart_title": "Average Vegetable Prices by Year",
+  "line_chart_title": "Vegetable Prices Over Time",
+  "select_veggie": "Select a vegetable",
+  "select_year": "Select a year",
+  "currency_label": "Price in Canadian Dollars (CAD)",
+  "loading_line_chart": "Loading line chart...",
+  "loading_bar_chart": "Loading bar chart...",
+  "info_button_label": "Open data source information",
+  "info_popup_title": "Where does this data come from?",
+  "info_popup_text": "Infohort is a dynamic information collection and dissemination system designed to provide current and historical data on horticultural commodities across Canada. The information available can be used for research or to analyze market trends. Using Infohort, you can dynamically generate reports according to your specifications.\n\nThe data comes from Agriculture and Agri-Food Canada, where you can select the wholesale market of interest (in our case, Toronto), then choose the type of report you want (daily, weekly, monthly, annual), and the year to focus on.\n\nDaily wholesale price reports provide daily ranges of domestic and imported products offered for sale. All prices are provided by a selected group of wholesalers operating in that specific market.\n\nMarkets include Montreal and Toronto.\n\nWeekly wholesale price reports provide the weekly range of products offered on Canadian markets.\n\nFor more information, visit the Infohort Wholesale Price Reports website.",
+  "info_popup_link_text": "Infohort Wholesale Price Reports (agriculture.canada.ca)",
+  "year_label": "Year: {{year}}",
+  "landing_title": "Welcome to the Interactive Dashboard",
+  "landing_description": "Explore detailed price trends and insights with dynamic charts and easy language switching.",
+  "landing_button": "Enter Dashboard",
+  "veggies": {
+    "broccoli": "Broccoli",
+    "carrots": "Carrots",
+    "cucumbers": "Cucumbers",
+    "tomatoes": "Tomatoes",
+    "peppers": "Peppers",
+    "lettuce": "Lettuce"
+  }
+}

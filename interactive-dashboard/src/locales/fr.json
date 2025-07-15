@@ -1,0 +1,25 @@
+{
+  "app_title": "VegDash",
+  "dashboard_title": "Tableau de bord interactif",
+  "footer_rights": "Tous droits réservés.",
+  "bar_chart_title": "Prix moyens des légumes par année",
+  "line_chart_title": "Prix des légumes au fil du temps",
+  "select_veggie": "Sélectionner un légume",
+  "select_year": "Sélectionner l'année",
+  "currency_label": "Prix en dollars canadiens (CAD)",
+  "loading_line_chart": "Chargement du graphique en ligne...",
+  "loading_bar_chart": "Chargement du graphique en barres...",
+  "info_button_label": "Ouvrir les informations sur la source des données",
+  "info_popup_title": "D'où proviennent ces données ?",
+  "info_popup_text": "Infohort est un système dynamique de collecte et de diffusion d'informations conçu pour fournir des données actuelles et historiques sur les produits horticoles à travers le Canada. Les informations disponibles peuvent être utilisées pour la recherche ou pour analyser les tendances du marché. Grâce à Infohort, vous pouvez générer dynamiquement des rapports selon vos spécifications.\n\nLes données proviennent d'Agriculture et Agroalimentaire Canada, où vous pouvez sélectionner le marché de gros concerné (dans notre cas, Toronto), puis choisir le type de rapport désiré (quotidien, hebdomadaire, mensuel, annuel), ainsi que l'année à analyser.\n\nLes rapports de prix de gros quotidiens fournissent les fourchettes quotidiennes des produits domestiques et importés offerts à la vente. Tous les prix indiqués sont fournis par un groupe sélectionné de grossistes opérant sur ce marché spécifique.\n\nLes marchés incluent Montréal et Toronto.\n\nLes rapports de prix de gros hebdomadaires fournissent la fourchette hebdomadaire des produits offerts sur les marchés canadiens.\n\nPour plus d'informations, veuillez visiter le site des Rapports de prix de gros Infohort.",
+  "info_popup_link_text": "Rapports de prix de gros Infohort (agriculture.canada.ca)",
+  "year_label": "Année : {{year}}",
+  "veggies": {
+    "broccoli": "Brocoli",
+    "carrots": "Carottes",
+    "cucumbers": "Concombres",
+    "tomatoes": "Tomates",
+    "peppers": "Poivrons",
+    "lettuce": "Laitue"
+  }
+}
